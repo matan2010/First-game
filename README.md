@@ -16,3 +16,7 @@ Keys:
   L - move on to the next step.
   
   C - You can touch the rest of the map (to cancel, press C again).
+  
+  Game link:
+  
+  https://matan2010.github.io/First-game/index.html
