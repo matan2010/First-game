@@ -5,7 +5,7 @@ Purpose:
   Reach with the spacecraft to the green rectangle without touching the rest of the map.
 
 Keys:
-  A - Move left
+  A - Move left /0
   D - Move right
   Space - Up
   L - move on to the next step.
