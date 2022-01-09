@@ -8,6 +8,9 @@ Keys:
   A - Move left
 	
   D - Move right
+  
   Space - Up
+  
   L - move on to the next step.
+  
   C - You can touch the rest of the map (to cancel, press C again).
