@@ -1,4 +1,7 @@
 # First-game
+
+game project
+
 This is the first game I created
 
 Purpose:
